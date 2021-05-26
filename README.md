@@ -1,11 +1,11 @@
-### API para o CRUD de usuários
+# API para o CRUD de usuários
 
 ## Tecnologias Utilizadas:
 - MongoDB
 - Express
 - Mongoose
 
-# Para executar, não esqueçam de instalar os pacotes
+### Para executar, não esqueçam de instalar os pacotes
 Use:
   - yarn
   ou
